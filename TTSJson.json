@@ -1,9 +1,9 @@
 {
   "MachineInfo": [
     {
-      "Crane Position X" : "0",
-      "Crane Position Y" : "0",
-      "MetalTransfering" : "0"
+      "Crane Position X" : "10",
+      "Crane Position Y" : "20",
+      "MetalTransfering" : "1"
     }
   ]
 }
